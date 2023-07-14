@@ -1,0 +1,1561 @@
+[INFO: Starting: main: Starting]
+[INFO: Starting: main: Starting]
+[INFO: Starting: main: Starting]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_ingestion created Successfully: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_ingestion created Successfully: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: artifacts/data_ingestion/data.zip download with following info: 
+Server: GitHub.com
+Date: Thu, 13 Jul 2023 17:59:37 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"1bcec1537ef346aab92e229809d9a75d"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ wss://*.actions.githubusercontent.com github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=8i3x6dhVuaFoRNSQl%2BWspdChIIxM02xu3DdaCwyft2T06sbCpwu8SwWAxfaoTlwNMnFxxboVw3wdlfE4p%2FdlwTfw8Zi0C1Q198SrnXyxwt30o1On1gVK6YKycnTjwGcpjIBFc%2FuBP5OSi6SxJn4DP4w9QExBcb0UTBoANIqWd9OPiR9%2Fccia0js2UgRdIIRbWls33COKjBXF4I90JvDWVQCoyU1%2Bs%2FG2spIfy%2F1SIJ5ZfwhYo8jljTTwSXIXhKDeE2AIFZd6MmHjNqMXXR5U7w%3D%3D--6siQ9xeHFdrkQeXj--AfupIE6O6WT6NIwUo8OKOg%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.2115307930.1689271177; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 17:59:37 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 17:59:37 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: FD4C:1E096:2493E8:28143A:64B03B89
+connection: close
+
+: 1269098840: artifacts/data_ingestion/data.zip download with following info: 
+Server: GitHub.com
+Date: Thu, 13 Jul 2023 17:59:37 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"1bcec1537ef346aab92e229809d9a75d"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ wss://*.actions.githubusercontent.com github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=8i3x6dhVuaFoRNSQl%2BWspdChIIxM02xu3DdaCwyft2T06sbCpwu8SwWAxfaoTlwNMnFxxboVw3wdlfE4p%2FdlwTfw8Zi0C1Q198SrnXyxwt30o1On1gVK6YKycnTjwGcpjIBFc%2FuBP5OSi6SxJn4DP4w9QExBcb0UTBoANIqWd9OPiR9%2Fccia0js2UgRdIIRbWls33COKjBXF4I90JvDWVQCoyU1%2Bs%2FG2spIfy%2F1SIJ5ZfwhYo8jljTTwSXIXhKDeE2AIFZd6MmHjNqMXXR5U7w%3D%3D--6siQ9xeHFdrkQeXj--AfupIE6O6WT6NIwUo8OKOg%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.2115307930.1689271177; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 17:59:37 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 17:59:37 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: FD4C:1E096:2493E8:28143A:64B03B89
+connection: close
+
+]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_ingestion created Successfully: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: artifacts/data_ingestion/data.zip already exists of size ~ 115 KB: 1269098840: artifacts/data_ingestion/data.zip already exists of size ~ 115 KB]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_ingestion created Successfully: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: artifacts/data_ingestion/data.zip already exists of size ~ 115 KB: 1269098840: artifacts/data_ingestion/data.zip already exists of size ~ 115 KB]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_ingestion created Successfully: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: artifacts/data_ingestion/data.zip download with following info: 
+Server: GitHub.com
+Date: Thu, 13 Jul 2023 18:07:29 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"00827728fb3d6005b1b50d706bbfca47"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ wss://*.actions.githubusercontent.com github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=avlZX5MPrkodEG9ukYvMoi7iSAwwcO5Y%2B3b6fga%2FteCF1naZHplvknz1mJu1CLq%2BRcXrpRgD%2BpuTOyfa0WfZ6mfF16RSLLqt5tWmAi0iSR3KqLBgfQY7T3j8CrBVdOcexbf0XEZhwZkN%2Fo3ryOsbXd4lenfmOEEfq2oGVFsG9xyxqcO%2Bymg5%2Bp3WRwD7lXqcPnQ%2FYPh5vFgOBcdCLHvzz3fRZrkOkgoFPKuG5tI0phSAOmFtQLpOZqSyGQ3Yz6NoXp9kqe8iGUWdZ%2B8mvdeOzw%3D%3D--%2BVH03ZEl4HVfnEL7--Jz9e7kHAZCXG%2FISDRrEdJQ%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.204162825.1689271648; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 18:07:28 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 18:07:28 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: FF18:31A492:25E89C:297FF2:64B03D60
+connection: close
+
+: 1269098840: artifacts/data_ingestion/data.zip download with following info: 
+Server: GitHub.com
+Date: Thu, 13 Jul 2023 18:07:29 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"00827728fb3d6005b1b50d706bbfca47"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ wss://*.actions.githubusercontent.com github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=avlZX5MPrkodEG9ukYvMoi7iSAwwcO5Y%2B3b6fga%2FteCF1naZHplvknz1mJu1CLq%2BRcXrpRgD%2BpuTOyfa0WfZ6mfF16RSLLqt5tWmAi0iSR3KqLBgfQY7T3j8CrBVdOcexbf0XEZhwZkN%2Fo3ryOsbXd4lenfmOEEfq2oGVFsG9xyxqcO%2Bymg5%2Bp3WRwD7lXqcPnQ%2FYPh5vFgOBcdCLHvzz3fRZrkOkgoFPKuG5tI0phSAOmFtQLpOZqSyGQ3Yz6NoXp9kqe8iGUWdZ%2B8mvdeOzw%3D%3D--%2BVH03ZEl4HVfnEL7--Jz9e7kHAZCXG%2FISDRrEdJQ%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.204162825.1689271648; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 18:07:28 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 18:07:28 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: FF18:31A492:25E89C:297FF2:64B03D60
+connection: close
+
+]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_ingestion created Successfully: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: artifacts/data_ingestion/books.zip download with following info: 
+Server: GitHub.com
+Date: Thu, 13 Jul 2023 18:09:12 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"9207ed59e54743e546a6e364774dad23"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ wss://*.actions.githubusercontent.com github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=DtoL27Vt2QyZAl%2BaC%2BF%2BiGyfufazPFCma2gn9uXm9N6ciLyg%2BqemiO2ZBKZbZOWEow8zmITNTwz2jnIVnoMsQWXygUWh38Lu%2FgaZSQyaEyju0usUBNz0OEn0U0HR8Y6p%2BmjfEwG0k1DPYEuJQSfttLSbmLerE2zUrXuDfAZv3NX%2BfOAhKOkZRN%2FzJK4XsE1tY8EO7eBuQWDMnTZYniU1JmYIGyqrC5DLjd5Y8WurPVgQzioXFDMtPygZ2FZwhkZSW8hYO9voHwnRzCfpEJdt%2Bw%3D%3D--i8I23kusrJu5OdWz--T%2FgEjvZ%2B3OXhbi5Q05Ol%2BQ%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.545231784.1689271752; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 18:09:12 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 18:09:12 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: FF44:1A2FC:2D5B5C:318141:64B03DC8
+connection: close
+
+: 1269098840: artifacts/data_ingestion/books.zip download with following info: 
+Server: GitHub.com
+Date: Thu, 13 Jul 2023 18:09:12 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"9207ed59e54743e546a6e364774dad23"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ wss://*.actions.githubusercontent.com github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=DtoL27Vt2QyZAl%2BaC%2BF%2BiGyfufazPFCma2gn9uXm9N6ciLyg%2BqemiO2ZBKZbZOWEow8zmITNTwz2jnIVnoMsQWXygUWh38Lu%2FgaZSQyaEyju0usUBNz0OEn0U0HR8Y6p%2BmjfEwG0k1DPYEuJQSfttLSbmLerE2zUrXuDfAZv3NX%2BfOAhKOkZRN%2FzJK4XsE1tY8EO7eBuQWDMnTZYniU1JmYIGyqrC5DLjd5Y8WurPVgQzioXFDMtPygZ2FZwhkZSW8hYO9voHwnRzCfpEJdt%2Bw%3D%3D--i8I23kusrJu5OdWz--T%2FgEjvZ%2B3OXhbi5Q05Ol%2BQ%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.545231784.1689271752; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 18:09:12 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 18:09:12 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: FF44:1A2FC:2D5B5C:318141:64B03DC8
+connection: close
+
+]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_ingestion created Successfully: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: artifacts/data_ingestion/books.zip download with following info: 
+Server: GitHub.com
+Date: Thu, 13 Jul 2023 18:10:03 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"5f148524285db2a36350d4a65faac213"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ wss://*.actions.githubusercontent.com github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=A%2BPDJjJj157Tgo2tnU5%2BhMGSutzVXH1ha7bdPRWw3oYXXrWHeo2MpVriZKuBFjlgSvQFcSZ13YFpPRt%2FCXwnzvKPnzGgm3qTwqy9g00ZCP5sZ6RAorSd%2BbSXKeMP4OHlUlgd0aiQTA5%2FQyOKFAY1JA2634BJRNOppJmQjmlhTIRr4JXA%2BbxgyNP9YCaQBiXy2BcamLDoGa3mrv7n9stBfmRxJO6qqhDLwqUwWIATbjhr%2BLvyAUbnqXUQCjokLLffq84ITNF0yHGaUQPbKyuzxQ%3D%3D--OH9o4A1MsqxJVQnA--bgytpyITBpVvv6b8WCFnqg%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1993790677.1689271803; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 18:10:03 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 18:10:03 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: FF5F:1DF5F:255BD6:28FADC:64B03DFB
+connection: close
+
+: 1269098840: artifacts/data_ingestion/books.zip download with following info: 
+Server: GitHub.com
+Date: Thu, 13 Jul 2023 18:10:03 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"5f148524285db2a36350d4a65faac213"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ wss://*.actions.githubusercontent.com github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=A%2BPDJjJj157Tgo2tnU5%2BhMGSutzVXH1ha7bdPRWw3oYXXrWHeo2MpVriZKuBFjlgSvQFcSZ13YFpPRt%2FCXwnzvKPnzGgm3qTwqy9g00ZCP5sZ6RAorSd%2BbSXKeMP4OHlUlgd0aiQTA5%2FQyOKFAY1JA2634BJRNOppJmQjmlhTIRr4JXA%2BbxgyNP9YCaQBiXy2BcamLDoGa3mrv7n9stBfmRxJO6qqhDLwqUwWIATbjhr%2BLvyAUbnqXUQCjokLLffq84ITNF0yHGaUQPbKyuzxQ%3D%3D--OH9o4A1MsqxJVQnA--bgytpyITBpVvv6b8WCFnqg%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1993790677.1689271803; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 18:10:03 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Sat, 13 Jul 2024 18:10:03 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: FF5F:1DF5F:255BD6:28FADC:64B03DFB
+connection: close
+
+]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_ingestion created Successfully: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: artifacts/data_ingestion/books.zip already exists of size ~ 115 KB: 1269098840: artifacts/data_ingestion/books.zip already exists of size ~ 115 KB]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_ingestion created Successfully: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: artifacts/data_ingestion/books.zip download with following info: 
+Connection: close
+Content-Length: 26131256
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "250e96884496c7e111276d3bfc57b1cb5fe44eaa947c423afd0ba7e77e3023d0"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E276:1634:440EB5:4F95F4:64B03EB2
+Accept-Ranges: bytes
+Date: Thu, 13 Jul 2023 18:13:08 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4749-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1689271987.057313,VS0,VE1645
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a7719ec4e226f677d705429bb691d403ac3a0081
+Expires: Thu, 13 Jul 2023 18:18:08 GMT
+Source-Age: 1
+
+: 1269098840: artifacts/data_ingestion/books.zip download with following info: 
+Connection: close
+Content-Length: 26131256
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "250e96884496c7e111276d3bfc57b1cb5fe44eaa947c423afd0ba7e77e3023d0"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E276:1634:440EB5:4F95F4:64B03EB2
+Accept-Ranges: bytes
+Date: Thu, 13 Jul 2023 18:13:08 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4749-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1689271987.057313,VS0,VE1645
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a7719ec4e226f677d705429bb691d403ac3a0081
+Expires: Thu, 13 Jul 2023 18:18:08 GMT
+Source-Age: 1
+
+]
+[INFO: Starting: main: Starting]
+[INFO: >>>>>>> stage Data_injestion inited: main: >>>>>>> stage Data_injestion inited]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_ingestion created Successfully: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: >>>>>>> stage Data_injestion completed: main: >>>>>>> stage Data_injestion completed]
+[INFO: >>>>>>> stage Data_injestion inited: main: >>>>>>> stage Data_injestion inited]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_ingestion created Successfully: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: >>>>>>> stage Data_injestion completed: main: >>>>>>> stage Data_injestion completed]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_validation created Successfully: common: Directory artifacts/data_validation created Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_validation created Successfully: common: Directory artifacts/data_validation created Successfully]
+[INFO: >>>>>>> stage Data_injestion inited
+: main: >>>>>>> stage Data_injestion inited
+]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_ingestion created Successfully: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: >>>>>>> stage Data_injestion completed
+: main: >>>>>>> stage Data_injestion completed
+]
+[ERROR: 'stage2': main: 'stage2']
+Traceback (most recent call last):
+  File "d:\coding\ml\text summer\Text-summerizer\main.py", line 19, in <module>
+    logger.info('>>>>>>> stage {stage2} inited\n'.format(stage1=stage))
+KeyError: 'stage2'
+[INFO: >>>>>>> stage Data_injestion inited
+: main: >>>>>>> stage Data_injestion inited
+]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_ingestion created Successfully: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: >>>>>>> stage Data_injestion completed
+: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: >>>>>>> stage Data_Validation inited
+: main: >>>>>>> stage Data_Validation inited
+]
+[INFO: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: Directory artifacts created Successfully: common: Directory artifacts created Successfully]
+[INFO: Directory artifacts/data_ingestion created Successfully: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: >>>>>>> stage Data_Validation completed
+: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_injestion inited
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation inited
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[WARNING: _http: '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 8f78f718-4567-4d65-bff9-969fb64fc94f)')' thrown while requesting HEAD https://huggingface.co/allenai/scibert_scivocab_uncased/resolve/main/tokenizer_config.json]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[WARNING: _http: '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 98d04b33-72bd-4cfd-9320-6bcf671f76fd)')' thrown while requesting HEAD https://huggingface.co/allenai/scibert_scivocab_uncased/resolve/main/tokenizer_config.json]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[WARNING: _http: '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 210e6e8b-9a22-411f-b268-e3276d5ca70b)')' thrown while requesting HEAD https://huggingface.co/allenai/scibert_scivocab_uncased/resolve/main/tokenizer_config.json]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[ERROR: main: 'Datavalidationconfig' object has no attribute 'local_data_file']
+Traceback (most recent call last):
+  File "d:\coding\ml\text summer\Text-summerizer\main.py", line 10, in <module>
+    datainjestion.main()
+  File "d:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\pipeline\Data_injestion.py", line 13, in main
+    dataingestion.download_file()
+  File "d:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\components\__init__.py", line 20, in download_file
+    if not os.path.exists(self.config.local_data_file):
+AttributeError: 'Datavalidationconfig' object has no attribute 'local_data_file'
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip download with following info: 
+Connection: close
+Content-Length: 26131256
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "250e96884496c7e111276d3bfc57b1cb5fe44eaa947c423afd0ba7e77e3023d0"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 31C2:77A4:44450:611D1:64B0754D
+Accept-Ranges: bytes
+Date: Thu, 13 Jul 2023 22:06:12 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4720-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1689285966.037526,VS0,VE6148
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 84276f68b2edb77aef83a9c23860b7c5e5dd708e
+Expires: Thu, 13 Jul 2023 22:11:12 GMT
+Source-Age: 6
+
+]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_transformation completed
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_transformation completed
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_transformation completed
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[ERROR: main: TextEncodeInput must be Union[TextInputSequence, Tuple[InputSequence, InputSequence]]]
+Traceback (most recent call last):
+  File "main.py", line 33, in <module>
+    datainjestion.main()
+  File "D:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\pipeline\Data_transformation.py", line 13, in main
+    datatransformation.convert()
+  File "D:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\components\__init__.py", line 89, in convert
+    dataset_pt = self.covert_to_features(x_train,y_train)
+  File "D:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\components\__init__.py", line 65, in covert_to_features
+    input_encoding = self.tokenizer(source,max_length=512,truncation=True,padding=True)
+  File "D:\anaconda\envs\textsummarizer\lib\site-packages\transformers\tokenization_utils_base.py", line 2561, in __call__
+    encodings = self._call_one(text=text, text_pair=text_pair, **all_kwargs)
+  File "D:\anaconda\envs\textsummarizer\lib\site-packages\transformers\tokenization_utils_base.py", line 2647, in _call_one
+    return self.batch_encode_plus(
+  File "D:\anaconda\envs\textsummarizer\lib\site-packages\transformers\tokenization_utils_base.py", line 2838, in batch_encode_plus
+    return self._batch_encode_plus(
+  File "D:\anaconda\envs\textsummarizer\lib\site-packages\transformers\tokenization_utils_fast.py", line 425, in _batch_encode_plus
+    encodings = self._tokenizer.encode_batch(
+TypeError: TextEncodeInput must be Union[TextInputSequence, Tuple[InputSequence, InputSequence]]
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_transformation completed
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_transformation completed
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_transformation completed
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[WARNING: _http: '(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 86953fdc-afaa-4af0-a4e9-d8b5d261d55f)')' thrown while requesting HEAD https://huggingface.co/allenai/scibert_scivocab_uncased/resolve/main/tokenizer_config.json]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_transformation completed
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_transformation completed
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25519 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_transformation completed
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[WARNING: load: Using the latest cached version of the module from C:\Users\Chirag Garg\.cache\huggingface\modules\datasets_modules\metrics\rouge\08e5f021b5761265deaafbf424e57913106427f546189fe3f934069dd32c153f (last modified on Fri Jul 14 11:27:55 2023) since it couldn't be found locally at rouge, or remotely on the Hugging Face Hub.]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[WARNING: load: Using the latest cached version of the module from C:\Users\Chirag Garg\.cache\huggingface\modules\datasets_modules\metrics\rouge\08e5f021b5761265deaafbf424e57913106427f546189fe3f934069dd32c153f (last modified on Fri Jul 14 11:27:55 2023) since it couldn't be found locally at rouge, or remotely on the Hugging Face Hub.]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[WARNING: load: Using the latest cached version of the module from C:\Users\Chirag Garg\.cache\huggingface\modules\datasets_modules\metrics\rouge\08e5f021b5761265deaafbf424e57913106427f546189fe3f934069dd32c153f (last modified on Fri Jul 14 11:27:55 2023) since it couldn't be found locally at rouge, or remotely on the Hugging Face Hub.]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[WARNING: load: Using the latest cached version of the module from C:\Users\Chirag Garg\.cache\huggingface\modules\datasets_modules\metrics\rouge\08e5f021b5761265deaafbf424e57913106427f546189fe3f934069dd32c153f (last modified on Fri Jul 14 11:27:55 2023) since it couldn't be found locally at rouge, or remotely on the Hugging Face Hub.]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='UTF-8'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[WARNING: load: Using the latest cached version of the module from C:\Users\Chirag Garg\.cache\huggingface\modules\datasets_modules\metrics\rouge\08e5f021b5761265deaafbf424e57913106427f546189fe3f934069dd32c153f (last modified on Fri Jul 14 11:27:55 2023) since it couldn't be found locally at rouge, or remotely on the Hugging Face Hub.]
+[INFO: rouge_scorer: Using default tokenizer.]
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip download with following info: 
+Connection: close
+Content-Length: 25913934
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dce4af2e3de06e0d1cf72285e04f52ededd4781591de006e6938ea7a75682547"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B1EE:89F4:BB394:108349:64B16D85
+Accept-Ranges: bytes
+Date: Fri, 14 Jul 2023 15:45:13 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4732-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1689349511.121543,VS0,VE2698
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b693bb68544a8c36a12e56b3db25be9c18db804c
+Expires: Fri, 14 Jul 2023 15:50:13 GMT
+Source-Age: 2
+
+]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_transformation\\train\\train.pkl']
+Traceback (most recent call last):
+  File "main.py", line 36, in <module>
+    datainjestion.main()
+  File "D:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\pipeline\Data_transformation.py", line 13, in main
+    datatransformation.convert()
+  File "D:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\components\__init__.py", line 104, in convert
+    with open(path, 'wb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_transformation\\train\\train.pkl'
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip download with following info: 
+Connection: close
+Content-Length: 25913934
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dce4af2e3de06e0d1cf72285e04f52ededd4781591de006e6938ea7a75682547"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B1EE:89F4:BB394:108349:64B16D85
+Accept-Ranges: bytes
+Date: Fri, 14 Jul 2023 15:47:02 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4742-BOM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1689349623.885213,VS0,VE4
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 8ad015be16ec2e2f0df1ce29b655ac2cb157c301
+Expires: Fri, 14 Jul 2023 15:52:02 GMT
+Source-Age: 111
+
+]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_transformation\\train\\train.pkl']
+Traceback (most recent call last):
+  File "main.py", line 36, in <module>
+    datainjestion.main()
+  File "D:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\pipeline\Data_transformation.py", line 13, in main
+    datatransformation.convert()
+  File "D:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\components\__init__.py", line 104, in convert
+    with open(path, 'wb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_transformation\\train\\train.pkl'
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25307 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_transformation completed
+]
+[INFO: main: >>>>>>> stage ModelTrainingStage initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[ERROR: main: Trainer: evaluation requires an eval_dataset.]
+Traceback (most recent call last):
+  File "main.py", line 47, in <module>
+    datainjestion.main()
+  File "D:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\pipeline\Model_Trainer.py", line 14, in main
+    model_trainer_config.train()
+  File "D:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\components\__init__.py", line 149, in train
+    trainer.train()
+  File "D:\anaconda\envs\textsummarizer\lib\site-packages\transformers\trainer.py", line 1645, in train
+    return inner_training_loop(
+  File "D:\anaconda\envs\textsummarizer\lib\site-packages\transformers\trainer.py", line 2020, in _inner_training_loop
+    self._maybe_log_save_evaluate(tr_loss, model, trial, epoch, ignore_keys_for_eval)
+  File "D:\anaconda\envs\textsummarizer\lib\site-packages\transformers\trainer.py", line 2321, in _maybe_log_save_evaluate
+    metrics = self.evaluate(ignore_keys=ignore_keys_for_eval)
+  File "D:\anaconda\envs\textsummarizer\lib\site-packages\transformers\trainer.py", line 3049, in evaluate
+    eval_dataloader = self.get_eval_dataloader(eval_dataset)
+  File "D:\anaconda\envs\textsummarizer\lib\site-packages\transformers\trainer.py", line 973, in get_eval_dataloader
+    raise ValueError("Trainer: evaluation requires an eval_dataset.")
+ValueError: Trainer: evaluation requires an eval_dataset.
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25307 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25307 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_transformation completed
+]
+[INFO: main: >>>>>>> stage ModelTrainingStage initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[ERROR: main: unhashable type: 'slice']
+Traceback (most recent call last):
+  File "main.py", line 47, in <module>
+    datainjestion.main()
+  File "D:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\pipeline\Model_Trainer.py", line 14, in main
+    model_trainer_config.train()
+  File "D:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\components\__init__.py", line 132, in train
+    trainset = datasets.Dataset.from_pandas(pd.DataFrame(data=trainfile[:1200]))
+TypeError: unhashable type: 'slice'
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25307 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_transformation completed
+]
+[INFO: main: >>>>>>> stage ModelTrainingStage initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[ERROR: main: unhashable type: 'slice']
+Traceback (most recent call last):
+  File "main.py", line 47, in <module>
+    datainjestion.main()
+  File "D:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\pipeline\Model_Trainer.py", line 14, in main
+    model_trainer_config.train()
+  File "D:\coding\ml\text summer\Text-summerizer\src\TextsummerizeProject\components\__init__.py", line 132, in train
+    trainset = datasets.Dataset.from_pandas(pd.DataFrame(data=trainfile[:1200]))
+TypeError: unhashable type: 'slice'
+[INFO: main: >>>>>>> stage Data_injestion initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_ingestion created Successfully]
+[INFO: __init__: artifacts/data_ingestion/books.zip already exists of size ~ 25307 KB]
+[INFO: main: >>>>>>> stage Data_injestion completed
+]
+[INFO: main: >>>>>>> stage Data_Validation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_validation created Successfully]
+[INFO: main: >>>>>>> stage Data_Validation completed
+]
+[INFO: main: >>>>>>> stage Data_transformation initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/data_transformation created Successfully]
+[INFO: main: >>>>>>> stage Data_transformation completed
+]
+[INFO: main: >>>>>>> stage ModelTrainingStage initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: main: >>>>>>> stage ModelTrainingStage completed
+]
+[INFO: main: >>>>>>> stage ModelEvaluationStage initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_trainer created Successfully]
+[INFO: utils: NumExpr defaulting to 8 threads.]
+[INFO: main: >>>>>>> stage ModelEvaluationStage initiated
+]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: rouge_scorer: Using default tokenizer.]
+[INFO: main: >>>>>>> stage ModelEvaluationStage completed
+]
+[INFO: server: Started server process [4856]]
+[INFO: on: Waiting for application startup.]
+[INFO: on: Application startup complete.]
+[INFO: server: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)]
+[INFO: server: Shutting down]
+[INFO: on: Waiting for application shutdown.]
+[INFO: on: Application shutdown complete.]
+[INFO: server: Finished server process [4856]]
+[INFO: server: Started server process [21344]]
+[INFO: on: Waiting for application startup.]
+[INFO: on: Application startup complete.]
+[INFO: server: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)]
+[INFO: server: Shutting down]
+[INFO: on: Waiting for application shutdown.]
+[INFO: on: Application shutdown complete.]
+[INFO: server: Finished server process [21344]]
+[INFO: server: Started server process [13900]]
+[INFO: on: Waiting for application startup.]
+[INFO: on: Application startup complete.]
+[INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: server: Shutting down]
+[INFO: on: Waiting for application shutdown.]
+[INFO: on: Application shutdown complete.]
+[INFO: server: Finished server process [13900]]
+[INFO: server: Started server process [19392]]
+[INFO: on: Waiting for application startup.]
+[INFO: on: Application startup complete.]
+[INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[INFO: server: Shutting down]
+[INFO: on: Waiting for application shutdown.]
+[INFO: on: Application shutdown complete.]
+[INFO: server: Finished server process [19392]]
+[INFO: server: Started server process [15888]]
+[INFO: on: Waiting for application startup.]
+[INFO: on: Application startup complete.]
+[INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='config\\config.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Yaml file <_io.TextIOWrapper name='params.yaml' mode='r' encoding='cp1252'> read Successfully]
+[INFO: common: Directory artifacts created Successfully]
+[INFO: common: Directory artifacts/model_evaluation created Successfully]
+[INFO: server: Shutting down]
+[INFO: on: Waiting for application shutdown.]
+[INFO: on: Application shutdown complete.]
+[INFO: server: Finished server process [15888]]
