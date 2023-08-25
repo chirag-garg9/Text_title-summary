@@ -178,7 +178,7 @@ class ModelEvaluation:
         for article_batch, target_batch in tqdm(
             zip(article_batches, target_batches), total=len(article_batches)):
             
-            inputs = tokenizer(article_batch, max_length=512,  truncation=True, 
+            inputs = tokenizer(article_batch, max_length=4096,  truncation=True, 
                             padding="max_length", return_tensors="pt",is_split_into_words=True)
             
             summaries = model.generate(input_ids=inputs["input_ids"].to(device),
